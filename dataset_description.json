@@ -1,0 +1,10 @@
+{
+    "Name": "Multi-echo masking test dataset",
+    "BIDSVersion": "1.2.1",
+    "License": "PD",
+    "Authors": [
+        "Dylan M. Nielson",
+        "Argyris Stringaris"
+    ],
+    "Funding": "Collection of this data was supported byt the National Institutes of Health, Intramural Research Program, grant number ZIAMH002957-01."
+}
